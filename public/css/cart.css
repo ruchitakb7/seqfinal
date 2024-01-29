@@ -1,0 +1,14 @@
+.cart-ul{
+    border: 2px solid blanchedalmond  ;
+}
+
+.cart-li{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.cart-div{
+    width: fit-content;
+    text-align: center;
+    margin-left: 35%;
+}
